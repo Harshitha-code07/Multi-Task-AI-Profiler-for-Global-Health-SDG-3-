@@ -32,7 +32,7 @@ This pipeline successfully demonstrates how advanced ensemble algorithms can tra
 
 How to Run the Project
 
-Clone the repository: git clone https://github.com/yourusername/vital-signs-ai.git
+Clone the repository: git clone https://github.com/Harshitha-code07/vital-signs-ai
 
 Install dependencies: pip install pandas numpy scikit-learn matplotlib seaborn
 
