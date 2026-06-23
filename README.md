@@ -48,4 +48,6 @@ Clone the repository: git clone https://github.com/Harshitha-code07/Multi-Task-A
 
 Install dependencies: pip install pandas numpy scikit-learn matplotlib seaborn
 
+Ensure the dataset .csv file is in the same directory as the Jupyter Notebook.
+
 Run the Jupyter Notebook to view the full pipeline and policy simulation.
